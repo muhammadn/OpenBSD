@@ -1,0 +1,3 @@
+[submodule "bin/nsh"]
+	path = bin/nsh
+	url = https://github.com/yellowman/nsh.git
