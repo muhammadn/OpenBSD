@@ -98,7 +98,7 @@ sub variables {
 
     @encryption_methods = ('auto', 'blowfish' );
 
-    $defaultshell = 'ksh';	# defaultshell if not empty
+    $defaultshell = 'nsh';	# defaultshell if not empty
     $group_uniq = 'USER';
     $defaultgroup = $group_uniq;# login groupname, $group_uniq means username
     $defaultclass = 'default';  # default user login class
